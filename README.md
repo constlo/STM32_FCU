@@ -3,9 +3,9 @@
 This is a voluntary ITEK summer project at OAMK, which is an independent summer project for students at Oulu University of Applied Sciences.
 
 ## Contents
-0.0 - What is a FCU?
-1.0 - Project goals
-2.0 - Components used
+ - 0.0 - What is a FCU?
+ - 1.0 - Project goals
+ - 2.0 - Components used
 
 # 0.0 - What is a FCU?
 A flight controller unit, an abbreviation for FCU, works as a general manager for a drone.

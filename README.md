@@ -1,6 +1,7 @@
 # STM32_FCU
 ### An stm32-based Flight Controller Unit
 This is a voluntary ITEK summer project at OAMK, which is an independent summer project for students at Oulu University of Applied Sciences.
+![Image Alt Text](./pictures/Pcb.png)
 
 ## Contents
  - 0.0 - What is a FCU?
@@ -27,3 +28,6 @@ For this project the STM32 platform was chosen, for both familiarity to me, as w
 
 ## 4.0 Basic software principle
 The flight controller for a drone must keep the drone leveled when the user does not control the roll, pitch or yaw of a drone. To achieve this, a gyroscope must be used to determine the position of the drone. When the user inputs any of the three controls, this control must be overwritten, meaning the drone will output PWM to the drone according to the radio commands.
+
+## 5.0 Pcb Design Layout
+![Image Alt Text](./pictures/Pcb_design.png)

@@ -1,4 +1,5 @@
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+![License: LGPL v3](https://img.shields.io/badge/Embedded%20C-STM32-blue)
 
 # STM32_FCU
 ### An stm32-based Flight Controller Unit

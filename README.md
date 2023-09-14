@@ -66,7 +66,7 @@ The PCB i designed mostly works, but a few changes had to be made after ordering
 ## 5.0 Issues and improvements
 Issues:
 - ESCs may not turn on at the same time, 
-leading to unbalanced flight or some of the motors not starting at all.
+leading to unbalanced flight or some of the motors not starting at all. This may be due to calibration issues.
 - Loose wires were an issue in ealy testing, leading to potential fire hazards due to stripped wires. 
 - The control scheme is very primitive, and the analog stick values from the transmitter are very noisy.
 

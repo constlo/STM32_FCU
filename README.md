@@ -68,7 +68,7 @@ Issues:
 - ESCs may not turn on at the same time, 
 leading to unbalanced flight or some of the motors not starting at all. This may be due to calibration issues.
 - Loose wires were an issue in ealy testing, leading to potential fire hazards due to stripped wires. 
-- The control scheme is very primitive, and the analog stick values from the transmitter are very noisy.
+- The control scheme is very primitive, and the analog stick values from the transmitter are very noisy. Some form of smoothing will be required.
 
 Improvements for the future:
 - VTX slot for the FCU
